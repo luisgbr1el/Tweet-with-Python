@@ -26,7 +26,7 @@ Made with <a href="https://python.org/downloads/">Python 3.8.3</a>.
 
 Initially, you need to clone this repository on your computer.
 
-With </b>Git</b>, open the cmd and type `git clone https://github.com/luisgabriel53/Tweet-with-Python.git`.
+With <b>Git</b>, open the cmd and type `git clone https://github.com/luisgabriel53/Tweet-with-Python.git`.
 
 Open the folder, then, open the cmd on it directory.
 
